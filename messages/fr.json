@@ -1,0 +1,142 @@
+{
+  "NavbarLinks": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contact",
+    "blog": "Blog",
+    "homeTitle": "Accueil"
+  },
+  "HomePage": {
+    "title": "Bienvenue sur la page d'accueil"
+  },
+  "Hero": {
+    "title": "Apprends à <create>créer</create>, <code>coder</code> et <innovate>innover</innovate> dès aujourd'hui !",
+    "description": "Découvre le développement web et l'intelligence artificielle dans un cadre amusant, bilingue, et adapté à ton âge.",
+    "register": "M’inscrire maintenant",
+    "learnMore": "Découvrir le programme"
+  },
+  "Who": {
+    "title": "Pour qui ?",
+    "description": "De 8 à 18 ans, que tu sois curieux(se) ou passionné(e), Future Coders est fait pour toi. Aucune connaissance préalable en informatique ou en intelligence artificielle n’est requise."
+  },
+  "Why": {
+    "title": "Pourquoi nous rejoindre ?",
+    "description": "Parce que maîtriser les outils du numérique, c'est:",
+    "title1": "Développer ta créativité.",
+    "paragraph1": "Imagine, conçois et donne vie à tes propres projets numériques. De la création de jeux à la conception de sites web, laisse libre cours à ton imagination !",
+    "title2": "Préparer les métiers de demain.",
+    "paragraph2": "Dans un monde où le numérique est partout, apprendre à coder aujourd'hui c'est s'ouvrir de nombreuses opportunités pour l'avenir. Développe des compétences qui seront essentielles dans le monde de demain.",
+    "title3": "Acquérir de nouvelles compétences.",
+    "paragraph3": "Maîtrisez les concepts essentiels de la programmation et les techniques de résolution de problèmes qui sont valorisés dans le monde entier. Développez une pensée logique et des compétences analytiques qui vous seront bénéfiques dans tous les domaines."
+  },
+  "ProgramObjectives": {
+    "title": "Objectifs du programme",
+    "description": "Nos ateliers te permettront de :",
+    "objective1": "Comprendre les bases du développement web (HTML, CSS, JavaScript).",
+    "objective2": "Découvrir l'intelligence artificielle de manière simple et amusante.",
+    "objective3": "Créer tes propres projets, comme un site web ou un mini-chatbot.",
+    "objective4": "Stimuler ta logique et ta créativité.",
+    "objective5": "Travailler en équipe et collaborer sur des projets captivants.",
+    "objective6": "Prendre confiance en toi en apprenant à résoudre des problèmes techniques.",
+    "objective7": "Développer une première expertise technologique, essentielle pour l'avenir.",
+    "objective8": "T'amuser tout en apprenant dans un environnement bienveillant et bilingue."
+  },
+  "Program": {
+    "title": "Programme",
+    "description": "Du lundi au vendredi, un programme adapté, progressif et interactif",
+    "day1": "Jour 1",
+    "day2": "Jour 2",
+    "day3": "Jour 3",
+    "day4": "Jour 4",
+    "day5": "Jour 5",
+    "day1Title": "Découvertes des bases",
+    "day2Title": "Interactivité",
+    "day3Title": "Exploration IA",
+    "day4Title": "Projets en équipe",
+    "day5Title": "Présentation des projets",
+    "day1Description": "Apprends les bases de l'informatique et de la programmation.",
+    "day2Description": "Crée des projets interactifs et ludiques.",
+    "day3Description": "Découvre l’intelligence artificielle de manière simple et amusante.",
+    "day4Description": "Crée des projets en équipe et collabore sur des projets captivants.",
+    "day5Description": "Présente tes projets et reçois ton diplôme de fin de semaine."
+  },
+  "Tools": {
+    "title": "Les outils utilisés",
+    "description": "Nous t’initierons aux outils préférés des développeurs et des créateurs, adaptés à ton âge et faciles à prendre en main :",
+    "vsCode": "L’éditeur de code incontournable pour donner vie à tes idées de sites web et de projets.",
+    "scratch": "L’outil de programmation visuelle pour créer des animations, des jeux et des histoires interactives.",
+    "teachable": "La plateforme d’intelligence artificielle pour créer des projets interactifs et ludiques."
+  },
+  "Price": {
+    "title": "Tarifs",
+    "description": "Un tarif unique et dégressif pour répondre à toutes tes envies !",
+    "day1": "1 jour",
+    "day3": "3 jours",
+    "day5": "5 jours",
+    "descriptionDay1": "Idéal pour découvrir l'expérience !",
+    "descriptionDay3": "Pour une immersion plus longue.",
+    "descriptionDay5": "Pour une semaine complète de découverte et d'apprentissage.",
+    "price3": "Soit 43 € / jour",
+    "price5": "Soit 40 € / jour",
+    "lastSentence": "Des tarifs spéciaux pour les familles locales et des options premium pour les touristes disponibles sur demande."
+  },
+  "Prof": {
+    "meet": "Rencontrez",
+    "text1": "Développeur web avec plus de 7 ans d’expérience, ayant travaillé pour des marques prestigieuses telles que Chanel, Hermès, Crédit Agricole, Fortuneo et Leroy Merlin.",
+    "text2": "Grâce à mon expertise technique et à ma pédagogie bienveillante, je m’assure que chaque enfant apprend dans un cadre amusant,sécurisé et adapté à son âge.",
+    "quality1": " Pédagogie adaptée",
+    "desc1": "Titulaire du BAFA, j’ai une solide expérience en animation pour enfants et adolescents.",
+    "quality2": "Expérience concrète",
+    "desc2": "Projets réalisés pour des entreprises de renommée internationale.",
+    "quality3": "Accompagnement personnalisé",
+    "desc3": "Je prends le temps de comprendre les besoins de chaque enfant pour l’aider à progresser.",
+    "quality4": "Impact durable",
+    "desc4": "Je m’engage à transmettre des compétences essentielles pour l’avenir de chaque enfant.",
+    "age": "ans"
+  },
+  "Testimonials": {
+    "title": "Ils l’ont vécu et adoré !",
+    "description": "Découvrez comment nos ateliers transforment la curiosité en compétences concrètes.",
+    "testimonial1": {
+      "name": "Marie, 10 ans",
+      "text": "J'ai adoré créer mon premier site web ! Les activités étaient super amusantes et Younès explique vraiment bien."
+    },
+    "testimonial2": {
+      "name": "Sophie, 12 ans",
+      "text": "C'était génial de découvrir l'intelligence artificielle. Je ne pensais pas que ce serait aussi simple et intéressant !"
+    },
+    "testimonial3": {
+      "name": "Lucas, 14 ans",
+      "text": "Les projets en équipe étaient passionnants. J'ai appris plein de choses et rencontré de nouveaux amis."
+    }
+  },
+  "Faq": {
+    "title": "Vos questions, nos réponses",
+    "q1": "Quels sont les horaires des ateliers ?",
+    "a1": "Les ateliers ont lieu de 9h à 13h, avec des pauses pour maintenir l'énergie et la concentration des participants.",
+    "q2": "Quel est le nombre d'enfants par atelier ?",
+    "a2": "Pour garantir une expérience de qualité, nous limitons le nombre de participants à 8 par atelier.",
+    "q3": "Quels sont les prérequis pour participer ?",
+    "a3": "Aucun prérequis n'est nécessaire, nos ateliers sont adaptés à tous les niveaux, même pour les débutants.",
+    "q4": "Mon enfant doit-il apporter un ordinateur ?",
+    "a4": "Non, nous fournissons tout le matériel nécessaire pour les ateliers. Les participants n'ont pas besoin d'apporter leur propre ordinateur.",
+    "q5": "Quelle est la langue des ateliers ?",
+    "a5": "Les ateliers sont bilingues, en français et en anglais, pour permettre à chaque participant de s'exprimer dans la langue de son choix.",
+    "q6": "Comment puis-je m'inscrire ?",
+    "a6": "Pour vous inscrire, il vous suffit de remplir le formulaire d'inscription en ligne sur notre site web. Nous vous contacterons ensuite pour finaliser votre inscription.",
+    "q7": "Quoi faire pendant que mon enfant est en atelier ?",
+    "a7": "Pendant que votre enfant est en atelier, vous pouvez profiter de votre temps libre pour découvrir Essaouira, ses plages, son patrimoine culturel et ses activités touristiques. Nous sommes situés à côté d'un hammam traditionnel, d'un café et d'une boutique de souvenirs, pour vous permettre de passer un agréable moment pendant que votre enfant apprend et s'amuse."
+  },
+  "Footer": {
+    "text": "Donnez à vos enfants un futur technologique grâce à nos ateliers de développement web et intelligence artificielle à Essaouira.",
+    "copyRight": "Tous droits réservés.",
+    "location": "Essaouira, Maroc"
+  },
+  "Cta": {
+    "signup": "Inscrivez votre enfant dès aujourd'hui !",
+    "signupNow": "Inscrivez-vous maintenant",
+    "discover": "Découvrir le programme",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSeX7prhI1zRuk5D9fe-VadK27nQvH-PcMTxNkGLqGZABoB3xg/viewform"
+  }
+}

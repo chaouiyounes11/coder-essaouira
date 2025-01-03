@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --primary: #3490dc; /* Replace with your brand's primary color */
+  --secondary: #ffed4a; /* Replace with your brand's secondary color */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+    --primary: #1e3a8a; /* Adjusted for dark mode if needed */
+    --secondary: #eab308; /* Adjusted for dark mode if needed */
+  }
+}
+
+body {
+  background: #ffffff;
+  font-family: 'Inter', Arial, Helvetica, sans-serif; /* Updated to a modern sans-serif font */
+}
+
+/* Tailwind Configuration */
+@layer base {
+  :root {
+    --tw-primary: var(--primary);
+    --tw-secondary: var(--secondary);
+  }
+}
+
+@layer utilities {
+  .bg-primary {
+    background-color: var(--tw-primary);
+  }
+  .text-primary {
+    color: var(--tw-primary);
+  }
+  .bg-secondary {
+    background-color: var(--tw-secondary);
+  }
+  .text-secondary {
+    color: var(--tw-secondary);
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "Hero": {
+    "title": "Learn to <create>create</create>, <code>code</code> and <innovate>innovate</innovate> today!",
+    "description": "Discover web development and artificial intelligence in a fun, bilingual, and age-appropriate environment.",
+    "register": "Register now",
+    "learnMore": "Discover the program"
+  },
+  "Who": {
+    "title": "Who is it for?",
+    "description": "From 8 to 18 years old, whether you're curious or passionate, Future Coders is made for you. No prior knowledge in computing or artificial intelligence is required."
+  },
+  "Why": {
+    "title": "Why join us?",
+    "description": "Because mastering digital tools means:",
+    "title1": "Develop your creativity.",
+    "paragraph1": "Imagine, design and bring your own digital projects to life. From creating games to designing websites, let your imagination run wild!",
+    "title2": "Prepare for tomorrow's careers.",
+    "paragraph2": "In a world where digital technology is everywhere, learning to code today means opening up numerous opportunities for the future. Develop skills that will be essential in tomorrow's world.",
+    "title3": "Acquire new skills.",
+    "paragraph3": "Master essential programming concepts and problem-solving techniques that are valued worldwide. Develop logical thinking and analytical skills that will benefit you across all domains."
+  },
+  "ProgramObjectives": {
+    "title": "Program Objectives",
+    "description": "Our workshops will enable you to:",
+    "objective1": "Understand the basics of web development (HTML, CSS, JavaScript).",
+    "objective2": "Discover artificial intelligence in a simple and fun way.",
+    "objective3": "Create your own projects, like a website or a mini-chatbot.",
+    "objective4": "Stimulate your logic and creativity.",
+    "objective5": "Work in teams and collaborate on exciting projects.",
+    "objective6": "Build self-confidence by learning to solve technical problems.",
+    "objective7": "Develop initial technological expertise, essential for the future.",
+    "objective8": "Have fun while learning in a supportive and bilingual environment."
+  },
+  "Program": {
+    "title": "Program",
+    "description": "From Monday to Friday, an adapted, progressive and interactive program",
+    "day1": "Day 1",
+    "day2": "Day 2",
+    "day3": "Day 3",
+    "day4": "Day 4",
+    "day5": "Day 5",
+    "day1Title": "Discovering the basics",
+    "day2Title": "Interactivity",
+    "day3Title": "AI Exploration",
+    "day4Title": "Team Projects",
+    "day5Title": "Project Presentations",
+    "day1Description": "Learn the basics of computing and programming.",
+    "day2Description": "Create interactive and fun projects.",
+    "day3Description": "Discover artificial intelligence in a simple and fun way.",
+    "day4Description": "Create team projects and collaborate on exciting projects.",
+    "day5Description": "Present your projects and receive your end-of-week diploma."
+  },
+  "Tools": {
+    "title": "Tools we use",
+    "description": "We'll introduce you to developers' and creators' favorite tools, adapted to your age and easy to use:",
+    "vsCode": "The essential code editor to bring your website ideas and projects to life.",
+    "scratch": "The visual programming tool to create animations, games and interactive stories.",
+    "teachable": "The artificial intelligence platform to create interactive and fun projects."
+  },
+  "Price": {
+    "title": "Pricing",
+    "description": "A single and decreasing rate to meet all your needs!",
+    "day1": "1 day",
+    "day3": "3 days",
+    "day5": "5 days",
+    "descriptionDay1": "Perfect for discovering the experience!",
+    "descriptionDay3": "For a longer immersion.",
+    "descriptionDay5": "For a full week of discovery and learning.",
+    "price3": "Equal to € 43 / day",
+    "price5": "Equal to € 40 / day",
+    "lastSentence": "Special rates for local families and premium options for tourists available upon request."
+  },
+  "Prof": {
+    "meet": "Meet",
+    "text1": "Web developer with over 7 years of experience, having worked for prestigious brands such as Chanel, Hermès, Crédit Agricole, Fortuneo and Leroy Merlin.",
+    "text2": "Thanks to my technical expertise and caring teaching approach, I ensure that every child learns in a fun, safe environment adapted to their age.",
+    "quality1": "Adapted teaching",
+    "desc1": "Holding a BAFA certification, I have solid experience in leading activities for children and teenagers.",
+    "quality2": "Hands-on experience",
+    "desc2": "Projects completed for internationally renowned companies.",
+    "quality3": "Personalized guidance",
+    "desc3": "I take the time to understand each child's needs to help them progress.",
+    "quality4": "Lasting impact",
+    "desc4": "I am committed to passing on essential skills for every child's future.",
+    "age": "years old"
+  },
+  "Testimonials": {
+    "title": "They experienced it and loved it!",
+    "description": "Discover how our workshops transform curiosity into real skills.",
+    "testimonial1": {
+      "name": "Marie, 10 years old",
+      "text": "I loved creating my first website! The activities were super fun and Younès explains everything really well."
+    },
+    "testimonial2": {
+      "name": "Sophie, 12 years old",
+      "text": "It was amazing to discover artificial intelligence. I didn't think it would be so simple and interesting!"
+    },
+    "testimonial3": {
+      "name": "Lucas, 14 years old",
+      "text": "The team projects were exciting. I learned so much and made new friends."
+    }
+  },
+  "Faq": {
+    "title": "Your questions, our answers",
+    "q1": "What are the workshop hours?",
+    "a1": "Workshops take place from 9am to 1pm, with breaks to maintain participants' energy and concentration.",
+    "q2": "How many children per workshop?",
+    "a2": "To ensure a quality experience, we limit the number of participants to 8 per workshop.",
+    "q3": "What are the prerequisites for participating?",
+    "a3": "No prerequisites are necessary, our workshops are adapted to all levels, even for beginners.",
+    "q4": "Does my child need to bring a computer?",
+    "a4": "No, we provide all the necessary equipment for the workshops. Participants don't need to bring their own computer.",
+    "q5": "What is the language of the workshops?",
+    "a5": "The workshops are bilingual, in French and English, allowing each participant to express themselves in the language of their choice.",
+    "q6": "How do I register?",
+    "a6": "To register, simply fill out the online registration form on our website. We will then contact you to finalize your registration.",
+    "q7": "What can I do while my child is in the workshop?",
+    "a7": "While your child is in the workshop, you can use your free time to explore Essaouira, its beaches, cultural heritage, and tourist activities. We are located next to a traditional hammam, a café, and a souvenir shop, allowing you to have a pleasant time while your child learns and has fun."
+  },
+  "Footer": {
+    "text": "Give your children a technological future thanks to our web development and artificial intelligence workshops in Essaouira.",
+    "copyRight": "All rights reserved.",
+    "location": "Essaouira, Maroc"
+  },
+  "Cta": {
+    "signup": "Sign up your child today!",
+    "discover": "Discover the program",
+    "signupNow": "Sign up now",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSd5KAm60G2WJrg3a7nVGTZp_FdEe85aOSiSeNT62mJ3y48iiw/viewform?usp=header"
+  }
+}
